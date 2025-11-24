@@ -10,6 +10,11 @@ The purpose of this project is to showcase skills such as data cleaning, formula
 - *Analysis Workbooks* – Files containing formulas, charts, and insights  
 - *Dashboards (if any)* – Ready-made interactive Excel dashboards  
 
+## 🖼 Dashboard Preview
+Here is a preview of the main dashboard from this project:
+![Excel Dashboard Screenshot](./DashBoard1.png)
+[Excel Dashboard Screenshot](./DashBoard2.png)
+
 ## 🎯 Skills Demonstrated
 - Data Cleaning (removing duplicates, fixing errors, formatting)
 - Formulas & Functions (SUM, IF, VLOOKUP/XLOOKUP, INDEX-MATCH)
