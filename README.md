@@ -27,7 +27,7 @@ Here is a preview of the main dashboard from this project:
 ## 🚀 How to Use
 1. Download or clone the repository:
    bash
-   git clone https://github.com/Rajashreepari/Excel.git
+   git clone https://github.com/Rajashreepari/Superstore-Sales-Analysis-And-Excel-Dashboard-Project.git
    
 2. Open any .xlsx file in Microsoft Excel.
 3. Explore the sheets to understand the formulas, analysis, and visuals.
